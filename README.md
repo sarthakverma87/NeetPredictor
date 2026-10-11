@@ -80,7 +80,7 @@ Share these with real people. Do not fake leads.
 
 ## How AI was used
 
-Cursor (Grok) helped scaffold the Vite app, write the interpolation/bucket helpers, the Apps Script webhook, and first-pass UI copy. I specified the assignment rules, Google Sheets storage, conversion flow (results only after the phone form), and reviewed the worked example against the JSON.
+Claude/Cursor (Grok) helped scaffold the Vite app, write the interpolation/bucket helpers, the Apps Script webhook, and first-pass UI copy. I specified the assignment rules, Google Sheets storage, conversion flow (results only after the phone form), and reviewed the worked example against the JSON.
 
 ## Out of scope
 
